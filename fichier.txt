@@ -1,0 +1,9 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+    <title>Exercice OpenClassRoom</title>
+    <meta http-equiv="Content-Type" content="text/HTML; charset=UTF8"/>
+</head>
+    <body>
+        
+    </body>
+</html>
